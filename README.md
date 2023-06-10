@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/_sato_a/" rel="instagram" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    
   <a rel = "twitter"><img src="https://img.shields.io/twitter/follow/mrcosato?style=for-the-badge" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marcos-akihito-vakt/" rel="linkedin"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/marcos-akihito-vakt/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/mrcosato/mrcosato/blob/output/github-contribution-grid-snake.svg)
 
